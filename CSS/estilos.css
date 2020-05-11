@@ -1,0 +1,38 @@
+body{
+    background-image: url('https://1.bp.blogspot.com/-w13F-0ZHoyk/Xec5tGbL2jI/AAAAAAAAhGg/BFirDdLOpBgVa1Y30KDnBpvdfDK8q4Y8wCLcBGAsYHQ/s2560/lines-formate-abstract-4k-u9-2560x1440.jpg');
+    background-size: 10vw 100vh;
+    height: 100vh;
+    font-family: Arial;
+  }
+  
+  .menu{
+    background: lightblue;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style: none;
+  }
+  
+  a{
+    color: purple;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-title,
+  .site-subtitle {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
